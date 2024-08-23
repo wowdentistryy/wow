@@ -3982,3 +3982,11 @@ form button:hover {
       margin-top: 25px; /* Increase margin-bottom for mobile devices */
   }
 }
+@media (min-width: 1024px) {
+ 
+
+  .intro-text {
+    /* Increased line height for laptops */
+    line-height: 1.8;
+  }
+}
