@@ -3979,6 +3979,6 @@ form button:hover {
 /* Styles for mobile devices */
 @media (max-width: 767px) {
   .welcome-heading {
-      margin-top: 60px; /* Increase margin-bottom for mobile devices */
+      margin-top: 25px; /* Increase margin-bottom for mobile devices */
   }
 }
