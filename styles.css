@@ -3975,3 +3975,10 @@ form button:hover {
     font-size: 24px; /* Adjust font size for smaller screens */
   }
 }
+
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+  .welcome-heading {
+      margin-top: 60px; /* Increase margin-bottom for mobile devices */
+  }
+}
